@@ -1,8 +1,9 @@
 # Lazy-File-Arranger
 
-> A basic python file selector for lazy people
+> It's often frustrating and time-comsuming job to sort many files. Here is the solution for you :)
 
-##
+# Pypi
+> python -m pip install colorama tqdm
 
 ## Usage
 ```
