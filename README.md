@@ -18,4 +18,4 @@ Ways to contribute
 - Report me a bug
 - Help me document the code
 
-Licensed under the GNU GPLv3, see [LICENSE](LICENSE) for more information.
+Licensed under the MIT LICENSE, see [LICENSE](LICENSE) for more information.
