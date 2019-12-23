@@ -1,8 +1,8 @@
 # Sorter
 
-![ScreenShot](https://github.com/khaingmyelkhant/Sorter/blob/master/Capture.PNG)
-
 > It's often frustrating and time-comsuming job to sort many files especially in downloads folder. I am a lazy programmer so I just made my solution ;)
+
+![ScreenShot](https://github.com/khaingmyelkhant/Sorter/blob/master/Capture.PNG)
 
 ## Usage
 > python3 lazyFileArrange.py 
